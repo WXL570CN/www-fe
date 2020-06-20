@@ -1,0 +1,875 @@
+[33mcommit 343a99921483a51fd82e6e0d6ca37f3e44e27cac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri May 22 16:21:52 2020 +0800
+
+    gitattributes
+
+[33mcommit 1cb20fdb63709543c01f88752c39e9e0f758d087[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri May 22 15:18:09 2020 +0800
+
+    add gitattributes
+
+[33mcommit 82b7a1a14ec578b0c5c9ae3a113889f623d9eb2f[m
+Merge: e6d422a 6771121
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu May 21 09:23:18 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 677112146f1eec299136bc3ca2ad17ca9451eec0[m
+Author: peng <1098987221@qq.com>
+Date:   Tue May 19 17:47:07 2020 +0800
+
+    企业认证
+
+[33mcommit e6d422a496ee7f42500fd94e7ae9a411131fc80d[m
+Merge: d804253 de8a337
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri May 15 15:37:00 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit de8a3373562251684e795ef1f64f45092853d9ed[m
+Author: peng <1098987221@qq.com>
+Date:   Fri May 15 15:33:53 2020 +0800
+
+    企业认证
+
+[33mcommit d8042531adf6657d3e073eb13f42af53a4ef3cce[m
+Merge: 36fb8ea 5d8a8e7
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed May 13 18:56:24 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 5d8a8e7f054fb1a560800a4f59f0ffdd490781b7[m
+Author: peng <1098987221@qq.com>
+Date:   Wed May 13 18:47:59 2020 +0800
+
+    产品清空
+
+[33mcommit 36fb8ea1368e3e56e3ccb24423fb53953560dfc6[m
+Merge: 50c2ff7 f23496f
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed May 13 18:10:51 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit f23496fe29d42238d358610f0c9813f056da71e9[m
+Author: peng <1098987221@qq.com>
+Date:   Wed May 13 17:53:53 2020 +0800
+
+    产品数据
+
+[33mcommit 50c2ff75d5e6733fd76838c7a7c2c4fadbc4b579[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed May 13 11:41:40 2020 +0800
+
+    add Authorization header
+
+[33mcommit 268a0f94953c93ea67cd6025dc5e2dca6d636bf0[m
+Merge: 73d5569 ac52f0a
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed May 13 09:25:14 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit ac52f0a1413e216d665d391a3ccfb4708e168571[m
+Author: peng <1098987221@qq.com>
+Date:   Mon May 11 10:11:39 2020 +0800
+
+    默认数值修复
+
+[33mcommit 73d5569f3ef1524ed1a8306eb4d82afa3c332ca9[m
+Merge: 1a5eef9 b89c1c8
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri May 8 17:30:48 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 1a5eef91eac046c6f72e4a83e3654ea3e9da149b[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri May 8 17:30:06 2020 +0800
+
+    SASS_BINARY_SITE
+
+[33mcommit b89c1c843205a69999249a5b43f69f934c99ecd3[m[33m ([m[1;33mtag: test1.v2020.5.8.10.19[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Fri May 8 17:21:49 2020 +0800
+
+    样式修改
+
+[33mcommit 0376abf7b0c245488d4fa57f6c832d6edfbf82ae[m[33m ([m[1;33mtag: test1.v2020.5.8.10.18[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Fri May 8 15:40:01 2020 +0800
+
+    样式调整
+
+[33mcommit 8ec18f124479ff8ea08354892953248967f98385[m[33m ([m[1;33mtag: test1.v2020.5.8.10.13[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Fri May 8 14:34:22 2020 +0800
+
+    修复
+
+[33mcommit f9938c0af0b0714212ffe1660a65c7c323849c18[m[33m ([m[1;33mtag: test1.v2020.5.8.10.11[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Fri May 8 10:29:15 2020 +0800
+
+    样式修改
+
+[33mcommit e1e22242d48e786cfe9d0fd06fd36b078a483e3e[m[33m ([m[1;33mtag: test1.v2020.5.7.10.11[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Thu May 7 18:20:59 2020 +0800
+
+    api
+
+[33mcommit 68c927f82bda25c36f5185000fab60dae60cbc08[m[33m ([m[1;33mtag: test1.v.2020.04.28.09.36[m[33m, [m[1;33mtag: test1.v.2020.04.28.09.23[m[33m, [m[1;31morigin/feature/gitlab-ci[m[33m)[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Tue Apr 28 09:22:08 2020 +0800
+
+    gitlab ci : use base node
+
+[33mcommit 24f5a27f82c1bfb53d0d922a8a2869234c548354[m[33m ([m[1;33mtag: test1.v2020.4.26.17.00[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Sun Apr 26 16:59:20 2020 +0800
+
+    bug修复
+
+[33mcommit b90b6f2963adc4bf988f8092cf4da2843f8e2cb0[m[33m ([m[1;33mtag: test1.v2020.4.22.16.56[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Apr 22 16:55:23 2020 +0800
+
+    嵌入页
+
+[33mcommit 6e5bcb2bcfd4031baecad93eb13f99c138016d30[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 22 15:34:54 2020 +0800
+
+    get user info when init
+
+[33mcommit 64666bb0bff74ea49a836402dc1f54ff6e560e04[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 22 15:18:09 2020 +0800
+
+    get user info when init
+
+[33mcommit 6ff320bce33d9963c3365095f7ede66791d04f65[m[33m ([m[1;33mtag: test1.v2020.4.21.17.33[m[33m)[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Apr 21 17:32:08 2020 +0800
+
+    过渡页
+
+[33mcommit bd7676cd409d161edd0a1bfafa613c2929e9b539[m[33m ([m[1;33mtag: test1.v2020.4.20.11.20[m[33m, [m[1;33mtag: test1.v2020.4.20.10.11[m[33m, [m[1;31morigin/ci/test1[m[33m)[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Apr 20 09:15:42 2020 +0800
+
+    gitlab ci : deploy to test1
+
+[33mcommit 1dccd46cc5e395cf2d9d1665dbec5002fb8d66e1[m[33m ([m[1;33mtag: test1.v2020.4.20.13.17[m[33m)[m
+Merge: 5cffa3b 1dc4d00
+Author: peng <1098987221@qq.com>
+Date:   Mon Apr 20 08:39:49 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 1dc4d00f88d525ab8d2ac4f0bdfcf2b0c3850504[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri Apr 17 17:41:32 2020 +0800
+
+    fix id safe
+
+[33mcommit 5cffa3bb2cd3f5cf28c72bbc834a90f7e25fc026[m
+Author: peng <1098987221@qq.com>
+Date:   Fri Apr 17 17:16:02 2020 +0800
+
+    数据中心
+
+[33mcommit df9e6559f81e01d4af4506a65e1a4a5538995954[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri Apr 17 15:40:23 2020 +0800
+
+    user center : hide password when no phone
+
+[33mcommit 671235e53eb979209a772c75a21af8b465bc8cbb[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri Apr 17 10:43:17 2020 +0800
+
+    gitlab ci : extends deploy from global
+
+[33mcommit b8738155b64c149bea942a595eb4ec6c411bd093[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri Apr 17 10:15:15 2020 +0800
+
+    gitlab ci : extends deploy from global
+
+[33mcommit 46a8877eb65990b2df5d9d769b2135f21dad0f4a[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 17:40:08 2020 +0800
+
+    gitlab ci : extends from global
+
+[33mcommit eb0d9acefc9f60fc9aae2ceacf2207f52874d15e[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 16:05:15 2020 +0800
+
+    gitlab ci : build testing
+
+[33mcommit 2be8699006082fe73650a87a115346bbaaf5a9d8[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 16:02:53 2020 +0800
+
+    gitlab ci : remove debug
+
+[33mcommit a1b1091e86dc997956cfe6737cee1093dd98dc8c[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 14:16:27 2020 +0800
+
+    gitlab ci : debug
+
+[33mcommit 253c29b6d5e7ab5134ea0848bfbd01b9be364f1d[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 14:00:55 2020 +0800
+
+    gitlab ci : Disabling cache
+
+[33mcommit e864d8dc93b5cd365bc45d197a252632197301b2[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 13:35:51 2020 +0800
+
+    gitlab ci : only
+
+[33mcommit 071ab1dc6d83dbf2b2c17aeab9b38688b828f579[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 13:34:25 2020 +0800
+
+    gitlab ci : only
+
+[33mcommit e549c53375afef0bcfde5f85e43ab37da9eb8feb[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 13:19:25 2020 +0800
+
+    webpack : optimize log
+
+[33mcommit 4dd2b0a5bdeababd96df1f7045501c6f7c044787[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 13:07:27 2020 +0800
+
+    webpack : optimize log
+
+[33mcommit 9a733e4f2606cf1dec716a1d52de8d1391b89ae1[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 12:42:03 2020 +0800
+
+    webpack : optimize log
+
+[33mcommit 2abbaabfb3574783d62ed7f4dee36097541b71fa[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 11:53:34 2020 +0800
+
+    gitlab ci : debug
+
+[33mcommit 874b5d220b33b417416667356474b8430be874a3[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 11:36:35 2020 +0800
+
+    gitlab ci : build production
+
+[33mcommit 15a44eca7e8e0502744fe93940125ea0daa9ff8c[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 11:15:02 2020 +0800
+
+    node sass config binary site
+
+[33mcommit b71122f68bf38e1d6a23384b49fa500052f5555f[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 16 10:34:53 2020 +0800
+
+    gitlab ci : init
+
+[33mcommit 1d61c3b71754c8477e76ef6070b5b90f4890ed8b[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Apr 15 17:40:03 2020 +0800
+
+    数据中心
+
+[33mcommit 88aab9307eea25ef9efe4093d6b8492e97f16996[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 15 17:37:34 2020 +0800
+
+    disable login at data-guide
+
+[33mcommit 5a0a906e8554bbc37f7077a53f471f3a76c17aff[m
+Merge: 064f257 d33f546
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 15 17:27:08 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit d33f546f8ea02c165eb9b6eb21a8930560815489[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Apr 15 14:59:24 2020 +0800
+
+    可视化完善
+
+[33mcommit 064f2577f8aa34874d6f85681c43c259b6028a65[m
+Merge: 33d1de9 ccc2d09
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 15 08:53:50 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 33d1de98bc0bf0233f4861bef50599c14be5662e[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 15 08:53:30 2020 +0800
+
+    hide data center button at production
+
+[33mcommit ccc2d09c532545b71b8e483c0a9a8d6957a7fd23[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Apr 15 08:53:28 2020 +0800
+
+    数据中心
+
+[33mcommit 303cf8c7d0d91d7634bc5e92b4796f591e4acaf6[m
+Merge: b0a5630 3610864
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 15 08:39:40 2020 +0800
+
+    Merge branch 'production'
+
+[33mcommit b0a5630e6292391c872fd4f620483e929dbceb16[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Apr 14 17:27:50 2020 +0800
+
+    可视化
+
+[33mcommit e503464441d48b75ce6ca5eea2811eda8be6b688[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Apr 14 17:21:01 2020 +0800
+
+    可视化
+
+[33mcommit edda42101204200213521269387c54b45ac79d2c[m
+Author: peng <1098987221@qq.com>
+Date:   Mon Apr 13 17:28:55 2020 +0800
+
+    数据中心
+
+[33mcommit 3610864baeb45ca3c8c5176dd438df2e9e0d765e[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Apr 13 16:56:10 2020 +0800
+
+    get jwt from url search
+
+[33mcommit 177af681be925b191b039dbc2acb959a630799c2[m
+Author: peng <1098987221@qq.com>
+Date:   Sat Apr 11 17:03:26 2020 +0800
+
+    数据中心
+
+[33mcommit 76e5ba95bf16ea6cdb5c2f21dd4f94d2e92b58ff[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Apr 11 13:04:31 2020 +0800
+
+    deployToTesting.sh
+
+[33mcommit e4a6d8ddef81ffe8e71bfba106d4a8d5ef3d4f1b[m
+Author: peng <1098987221@qq.com>
+Date:   Fri Apr 10 16:55:42 2020 +0800
+
+    入口界面
+
+[33mcommit 9af07d26a90e917629736a31a75b81e0f8b367ce[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Apr 9 17:21:40 2020 +0800
+
+    数据中心
+
+[33mcommit c0700609be6727e6ef6f983cc520fb0f62912aa5[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 9 11:02:15 2020 +0800
+
+    webpack proxy : add roniedev
+
+[33mcommit db1e385ae42deee7edb7e7511c9e6f085939de14[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Wed Apr 8 15:05:41 2020 +0800
+
+    bbs home link
+
+[33mcommit 284d8b0c7ad76886d5ee44f63e04f01c93d9908d[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Apr 7 17:38:06 2020 +0800
+
+    bug修改
+
+[33mcommit 4185d4b58929836c981e27ac48f1b22655c30ad3[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Thu Apr 2 15:03:47 2020 +0800
+
+    fix login redirect
+
+[33mcommit 8b3797a0d4347e65006030efa190b98b504c0363[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Mar 30 08:59:14 2020 +0800
+
+    testing deploy script
+
+[33mcommit 75342a327663c50117fd3549253e146de37b4527[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Mar 30 08:58:30 2020 +0800
+
+    goToPage and disable data center link
+
+[33mcommit 7c2ade80b398c9b96a7c5877a8bf70f002e5b63d[m
+Merge: d99f8fa c2b9bb4
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Mar 28 17:08:03 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit c2b9bb47139420637c7a22a7190be69bd5b09c08[m
+Author: peng <1098987221@qq.com>
+Date:   Sat Mar 28 17:05:31 2020 +0800
+
+    修改bug
+
+[33mcommit d99f8faa33d85e5c1e5a82d4cde1828cad911f39[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Mar 28 13:52:12 2020 +0800
+
+    build testing
+
+[33mcommit 3d1170bb860ffbf3438383b6e687d421ef72dbe7[m
+Author: peng <1098987221@qq.com>
+Date:   Fri Mar 27 16:48:23 2020 +0800
+
+    跳转
+
+[33mcommit 0398320077f474d60c466dec686358c11ee468c9[m
+Merge: 2f38446 b1e2f0f
+Author: peng <1098987221@qq.com>
+Date:   Wed Mar 25 17:09:41 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 2f38446ad50f64cbae404b8ec87f89eb648442ad[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Mar 25 17:03:50 2020 +0800
+
+    可视化
+
+[33mcommit b1e2f0fa4f69c8e0f1183fd63a5d4531d42f82d8[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Mar 23 14:35:51 2020 +0800
+
+    data visual yearPicker import
+
+[33mcommit 11752dc6a5fd6e7cbbefada908d0001e2ee68de5[m
+Merge: 9035de2 ad7cac8
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Mar 23 14:28:05 2020 +0800
+
+    Merge branch 'production'
+    
+    # Conflicts:
+    #       package.json
+    #       src/user-center/routes/index.js
+    #       webpack/development/devServer.js
+
+[33mcommit 9035de2a97a39ce5231532eb6c2d0b47e5143496[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Mar 23 14:10:45 2020 +0800
+
+    build testing
+
+[33mcommit 7c8442686e668ecf4400bdbf4e4998c1e952fbfc[m
+Merge: 723b9a6 b72665e
+Author: peng <1098987221@qq.com>
+Date:   Mon Mar 16 17:09:26 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 723b9a6630ab56d984671505f5deb2dc8e9647f1[m
+Author: peng <1098987221@qq.com>
+Date:   Mon Mar 16 17:09:04 2020 +0800
+
+    可视化
+
+[33mcommit ad7cac87882668617b7145a63ddb041053c2e3ad[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Mon Mar 16 10:18:40 2020 +0800
+
+    login redirect tips
+
+[33mcommit e0f69f928ac5c90e93159bd6b98b90b2f0d0608c[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Mar 14 14:04:50 2020 +0800
+
+    cross env
+
+[33mcommit b5a69f0974502669f69aea01c843173b7c4b19ea[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Mar 14 13:59:54 2020 +0800
+
+    login redirect tips
+
+[33mcommit 15994f0cfe2330b4eff799c84b6a126621803a1e[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Fri Mar 13 17:32:50 2020 +0800
+
+    login page
+
+[33mcommit b72665e20a85808c18f9653bd315ca92993980e1[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Mar 14 13:46:20 2020 +0800
+
+    ignore api listenner vue app undefined log
+
+[33mcommit e1e7b511ac85368198d82acec439a6db3f5883c6[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Mar 14 10:22:55 2020 +0800
+
+    eslint webpack alias
+
+[33mcommit 155e3b86265b8def7787b91be535219f9ffeeaaa[m
+Author: ronie.liu <master@ronie.cc>
+Date:   Sat Mar 14 09:51:42 2020 +0800
+
+    year picker
+
+[33mcommit bf029f86530b49bb18cef7b4481958bb44d9a2d7[m
+Merge: bd17904 95a2977
+Author: peng <1098987221@qq.com>
+Date:   Tue Mar 3 16:01:53 2020 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit bd1790498915293dfaad44956aba23342183287f[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Mar 3 16:00:40 2020 +0800
+
+    可视化
+
+[33mcommit 95a2977ca5c573f889aae90f72fed67c664b4b36[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Mon Feb 10 17:08:02 2020 +0800
+
+    openvpn
+
+[33mcommit 08c0af7451925c59bfd59660dbc50756d2c64c93[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Wed Jan 15 19:04:28 2020 +0800
+
+    数据中心 - 聚合数据增加省份名字
+
+[33mcommit d1146ae67a93bef4ba65408de1ee3685bb6cce26[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Jan 15 15:30:36 2020 +0800
+
+    图表界面
+
+[33mcommit 1558c3ed26732c9e056c1bf8ed603cdd98229b63[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Jan 14 17:14:42 2020 +0800
+
+    数据中心代码
+
+[33mcommit 3ac9c9e55b15fe4614a7f607225ba3b9af24332e[m
+Author: peng <1098987221@qq.com>
+Date:   Mon Jan 13 14:11:40 2020 +0800
+
+    数据中心
+
+[33mcommit 780615ecbca2cc5ae49128c49fca2657c9949771[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Jan 9 14:52:12 2020 +0800
+
+    date string to unix
+
+[33mcommit 4d33ad1978308efc3ff090f205ed47829fe0cbf7[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Jan 7 19:21:08 2020 +0800
+
+    静态页面
+
+[33mcommit b6760548252ae4b170d8d68ae8799dc22b614b2d[m
+Author: peng <1098987221@qq.com>
+Date:   Sat Jan 4 17:02:55 2020 +0800
+
+    静态页面
+
+[33mcommit e6c0b485597346daeb7e8b14fffd4fa9bcca1065[m
+Author: peng <1098987221@qq.com>
+Date:   Fri Dec 27 15:38:44 2019 +0800
+
+    图标
+
+[33mcommit 2c865b2046c19da758556064aa14dfbc727cf9ce[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Dec 25 17:30:18 2019 +0800
+
+    reade me
+
+[33mcommit e3b59d68550c6924bd95dcf099486d6cb9b3383a[m
+Author: peng <1098987221@qq.com>
+Date:   Wed Dec 25 17:20:53 2019 +0800
+
+    data center
+
+[33mcommit d3bdc9e1edffa47ee79f55ff97b9630b6203b9dc[m
+Author: peng <1098987221@qq.com>
+Date:   Mon Dec 23 17:01:29 2019 +0800
+
+    数据中心3
+
+[33mcommit 48e6d4abc0803ff21cc704af54784db878883a11[m
+Author: peng <1098987221@qq.com>
+Date:   Sat Dec 21 17:07:02 2019 +0800
+
+    数据中心2
+
+[33mcommit 5443a29237bac15f3724a19a8e235bd596acbbe1[m
+Merge: 2042c1f 4dc967d
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 19 17:07:21 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 2042c1ff5a0acfcde09a35629a0b91c6cc66ff34[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 19 17:07:06 2019 +0800
+
+    数据中心
+
+[33mcommit 4dc967dc89c052bbd21bc78832f4693ab1232e31[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Wed Dec 18 12:01:58 2019 +0800
+
+    会员中心 - 侧边栏 - image public path
+
+[33mcommit 1bf5448c8855859491b6aa764b3e25f152c6bcf0[m
+Author: peng <1098987221@qq.com>
+Date:   Tue Dec 17 16:59:01 2019 +0800
+
+    绑定手机
+
+[33mcommit 1a35d3c22093f4e045af9c183491a6efb03e0213[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Mon Dec 16 16:15:31 2019 +0800
+
+    会员中心 - 侧边栏
+
+[33mcommit d7c2f8f005744f9b31d640613b2c26f25c814671[m
+Author: peng <1098987221@qq.com>
+Date:   Mon Dec 16 16:02:14 2019 +0800
+
+    头像 导航栏2
+
+[33mcommit fe1c89ab7c63a45c037750350f293e31c1eb78ee[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Mon Dec 16 15:02:56 2019 +0800
+
+    会员中心 - 侧边栏
+
+[33mcommit daa9c852901e811472191fa6dc53b4bb383a14d9[m
+Merge: 089a7a2 3dd6e3a
+Author: peng <1098987221@qq.com>
+Date:   Mon Dec 16 14:34:02 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 089a7a25863015ebae4987dbceaf252d8873de8e[m
+Author: peng <1098987221@qq.com>
+Date:   Mon Dec 16 14:33:49 2019 +0800
+
+    头像 导航栏
+
+[33mcommit 3dd6e3ae556e3caea91118fb033f3d3f20edbd50[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Mon Dec 16 09:56:38 2019 +0800
+
+    会员中心 - 检测是否绑手机并提示 - 增加每天提醒
+
+[33mcommit 03640c0dd4e422766748ac23cdfd9de8aa696e3d[m
+Merge: 471ce6d 4a247a6
+Author: peng <1098987221@qq.com>
+Date:   Fri Dec 13 15:21:39 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 471ce6d77ec87a2c160850ed7629dfac37cd93d9[m
+Author: peng <1098987221@qq.com>
+Date:   Fri Dec 13 15:21:24 2019 +0800
+
+    验证5
+
+[33mcommit 4a247a6b6ca7e88d3d72e62cb43585d428604bb1[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Fri Dec 13 15:11:52 2019 +0800
+
+    会员中心 - 检测是否绑手机并提示
+
+[33mcommit 2c7e1f9e804484ea09e70a6a9ac28fe1b8c96ece[m
+Merge: 9e0427f c17855a
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Fri Dec 13 14:38:45 2019 +0800
+
+    Merge branch 'feature/bind-mobile' into feature/auto-lint
+
+[33mcommit 9e0427f0ca7aeb7117f7beddcd34fe60c6b89b4b[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Fri Dec 13 14:03:01 2019 +0800
+
+    webpack : eslint-loader
+
+[33mcommit 52142cf42109384ec3ddd174997f82f2c2f2ba51[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Fri Dec 13 13:52:00 2019 +0800
+
+    style : lint js
+
+[33mcommit 344e4894855ebb99840d329846e72cbc31d71eeb[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Fri Dec 13 13:50:46 2019 +0800
+
+    webpack : eslint-loader
+
+[33mcommit 8ae71b0c58a86d9511a902d86772d34d89fb2386[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Fri Dec 13 10:48:22 2019 +0800
+
+    user center : 禁用css压缩bug
+
+[33mcommit c93abeeecaad00ac79760abddd37c5052003b2c3[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Fri Dec 13 10:00:07 2019 +0800
+
+    user center : MFlogo img
+
+[33mcommit 4bfb6612d22399bf6a5ed6e9d797d907ebb69dd2[m
+Merge: ffe0cfa 147dd94
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 19:02:48 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit ffe0cfaf77c88163fcb3a5f0ac42c3c5b10216b4[m
+Merge: 03bb7f3 a8e3b67
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 19:02:42 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 03bb7f3cffb629847cb2950e1ea230412b59ec80[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 19:02:27 2019 +0800
+
+    验证4
+
+[33mcommit 147dd9433a88887622653a31a70963db4dcbaa04[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 19:00:43 2019 +0800
+
+    user center : 隐藏首次绑手机
+
+[33mcommit a8e3b6750ccb3646621d7beaa657d3741e334b28[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 18:58:48 2019 +0800
+
+    user center : 无数据显示
+
+[33mcommit ce218b63d58a6c2d406e9ca799233a5d81ef5231[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 18:53:56 2019 +0800
+
+    user center : 无数据显示
+
+[33mcommit d03da2a49051fb08c208f995976575c326848429[m
+Merge: 0cf34d1 70355be
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 18:50:33 2019 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 70355beb3dbc8e65311d9d184927783dc7374471[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 18:51:13 2019 +0800
+
+    验证4
+
+[33mcommit 0cf34d1e963e745365c97738547f8b5a8024be46[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 18:50:28 2019 +0800
+
+    user center : 无数据显示
+
+[33mcommit 1bdd49ec70d5b647e8055acf9cd6b97eaaa30e61[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 18:27:54 2019 +0800
+
+    验证3
+
+[33mcommit 9a4aaf43598197628ef71da9e842cdded66a9f61[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 18:25:19 2019 +0800
+
+    验证3
+
+[33mcommit c17855a568df698f8978956fd7985a9f52bc5a16[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 18:24:11 2019 +0800
+
+    user center : mobile tips
+
+[33mcommit 305d1cc19df2f9640afa1272679dc12abe32dac0[m
+Merge: e0975b0 72153bf
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 17:47:13 2019 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 72153bfcf4690a58fd7b0f51a008e8a4330800ba[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 17:48:46 2019 +0800
+
+    验证2
+
+[33mcommit e0975b0910a60901dcb473eea7ccb6c3ad4bcd9a[m
+Merge: 4d4ca75 f87e958
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 17:42:04 2019 +0800
+
+    Merge branch 'master' of ssh://gitlab.mf.plokij.com:30022/mafengs/www-fe
+
+[33mcommit 4d4ca7525a0897afc45e3879017a37efcd1127aa[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 17:41:59 2019 +0800
+
+    user center : photo
+
+[33mcommit f87e9589fb90949608f8014ee9c8186603e86844[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 17:40:42 2019 +0800
+
+    验证2
+
+[33mcommit 14c3bef42a0eb524a48c66f063c4b37bfe923786[m
+Author: Ronie.Liu <master@ronie.cc>
+Date:   Thu Dec 12 17:11:43 2019 +0800
+
+    user center : 开发中页面提示
+
+[33mcommit 9ba60077a21614f583f750b092b7614f5efdf3fb[m
+Merge: 19fff96 7339f7e
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 17:00:55 2019 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 19fff96b195deddbbc10e8e08e450219cf6eff88[m
+Author: peng <1098987221@qq.com>
+Date:   Thu Dec 12 17:00:31 2019 +0800
+
+    验证

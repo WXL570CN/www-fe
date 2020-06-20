@@ -1,0 +1,24 @@
+image: node:12
+
+include:
+  remote: 'http://gitlab.mf.plokij.com:880/ronieliu/ci/raw/master/global/.gitlab-ci.yml'
+
+variables:
+  GIT_CLEAN_FLAGS: none
+  CACHE_DIR: /fast_cache/${CI_PROJECT_PATH}/common
+.base_job:
+  extends: .template_global_base_job
+  cache: {}
+
+build:
+  extends:
+    - .base_job
+    - .base_node_build
+
+deploy_testing:
+  variables:
+    DEPLOY_SOURCE: "./build/"
+    DEPLOY_TARGET_PATH: "/projects/test1/www-static/static/user-center/"
+  extends:
+    - .base_job
+    - .base_deploy

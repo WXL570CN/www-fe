@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="cache-control" content="no-cache">
+        <meta http-equiv="cache-control" content="no-transform ">
+        <meta http-equiv="Cache-Control" content="no-siteapp">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="renderer" content="webkit">
+        <title>会员中心</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+    <!--[if lt IE 9]-->
+    <script src="assets/static/vendor/html5.min.js"></script>
+    <SCRIPT SRC="assets/static/vendor/respond.min.js"></SCRIPT>
+    <!--[endif]-->
+</head>
+<body>
+<!--header-->
+<%= require('./header.ejs')() %>
+<div class="total" id="main-content">
+    <router-view></router-view>
+       <!-- 底部样式-->
+    <div class="module_bottom">
+        <div class="footer_help">
+            <span>关于我们</span>
+            <span>使用协议</span>
+            <span>使用帮助</span>
+            <span>免责声明</span>
+        </div>
+        <div>备案号：浙ICP备18056008号</div>
+        <div>浙公网安备 33010802009621号</div>
+    </div>
+</div>
+<!-- 信息定制模态框-->
+<div class="modal fade" id="informationOrder" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title" id="myModalLabel">
+                    信息定制
+                </h4>
+            </div>
+            <div class="modal-body">
+                <form id="item_form">
+                    <ul>
+                        <li>
+                            <div id="alertWay">
+                                <span>提醒方式：</span>
+                                <input type="checkbox"   name="mode" value="2"><span>邮箱</span>
+                                <input type="checkbox"   name="mode" value="3"><span>微信</span>
+                                <input type="checkbox"   name="mode" value="4"><span>APP</span>
+                            </div>
+                            <div>
+                                <span>提醒时间：</span>
+                                <select class="import_style_long" id="custom_rates">
+                                    <option value="请选择">请选择提醒频率</option>
+                                    <option value="1">每一天</option>
+                                    <option value="3">每一周</option>
+                                    <option value="7">每一月</option>
+                                    <option value="30">每天2次</option>
+                                </select>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <span>手机号码：</span>
+                                <input type="text" placeholder="请输入你的手机号" class="import_style_long" id="Cust_phone">
+                            </div>
+                            <div>
+                                <span>电子邮件：</span>
+                                <input type="text" placeholder="请输入你的电子邮件" class="import_style_long" id="Cust_email">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <span class="keyword">关键词定制：</span>
+                                <div class="sum_word">
+                                    <input type="text" placeholder="关键词1" class="import_style_short" name="words" id="firstWord"><input type="button" value="继续添加" class="import_style_short" style="background-color: #F8F8F8;color: #9FA0B2;font-size: 12px" id="addWords">
+                                    <i></i>
+                                </div>
+                            </div>
+                        </li>
+                        <li style="margin-top: -15px">
+                            <div>
+                                <span class="info_item">信息类型：</span>
+                                <input type="checkbox"  name="infoType" value="2"><span>变更通知</span>
+                                <input type="checkbox"  name="infoType" value="3"><span>结果公告</span>
+                                <input type="checkbox"  name="infoType" value="1"><span>采购公告</span>
+                            </div>
+                        </li>
+                        <li>
+                        <div class="area">
+                            <span class="area_site">地区定位：</span>
+                            <select class="import_style_short" id="Cust_region1">
+                            </select>
+                            <select class="import_style_short" id="Cust_region2">
+                            </select>
+                            <select class="import_style_short" id="Cust_region3">
+                                <option value="0">请选择区/县- -</option>
+                            </select>
+                        </div>
+                    </li>
+                        <li>
+                            <div>
+                                <span class="search_mode">搜索模式：</span>
+                                <select class="import_style_short" id="Cust_scoutWay">
+                                    <option value="0">请选择- -</option>
+                                    <option value="1">标题搜索</option>
+                                    <option value="3">全文搜索</option>
+                                </select>
+                            </div>
+                        </li>
+                    </ul>
+                    <div><input type="button" value="定制完成" class="finish_order"/></div>
+                </form>
+            </div>
+<!--            <div class="modal-footer">-->
+<!--                <button type="button" class="btn btn-default" data-dismiss="modal">关闭-->
+<!--                </button>-->
+<!--                <button type="button" class="btn btn-primary">-->
+<!--                    提交更改-->
+<!--                </button>-->
+<!--            </div>-->
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal -->
+</div>
+</body>
+</html>

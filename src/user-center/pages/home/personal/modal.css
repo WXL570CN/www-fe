@@ -1,0 +1,84 @@
+.ant-modal-header{
+  background-color: #f9f9f9;
+  padding: 8px 24px;
+}
+.ant-modal-title{
+  color: #666666;
+}
+.ant-modal-close{
+  top:-8px;
+}
+.ant-input-lg{
+  padding: 0 16px;
+  border-radius: 0;
+}
+#state .text{
+  background-color: #F9FAFD;
+  padding: 16px 32px 16px 16px;
+}
+.text div{
+  font-size: 12px;
+  color: #5771A0;
+}
+.info p{
+  font-size: 12px;
+  color: #999999;
+  margin-bottom: 12px;
+}
+.info .code{
+  margin-top: 20px;
+}
+.info .note{
+  color: #333;
+}
+.info .code+input{
+  width: 256px;
+}
+.info .sendCode{
+  padding: 12px 20px;
+  background-color: #E6E6E6;
+  color: #4389FF;
+}
+.present{
+  width: 372px;
+  height: 40px;
+  margin-top: 32px;
+}
+.info .info-sure{
+  margin-top: 24px;
+}
+.hint-center{
+  padding: 0 78px;
+}
+.hint-center i{
+  display: inline-block;
+  width: 195px;
+  height: 166px;
+  background-image: url(../../../assets/static/images/picture.png);
+  margin: 10px 0 23px 0;
+}
+.center-text{
+  display: flex;
+  align-items: center;
+}
+.center-text span{
+  color: #333;
+}
+.foot{
+  margin: 24px 0 ;
+  padding: 0 87px;
+}
+.foot .cancel{
+  padding: 9px 23px;
+  background-color: #FFFFFF;
+  border:1px solid rgba(204,204,204,1);
+  color: #666666;
+  cursor: pointer;
+}
+.foot .bound{
+  padding: 9px 24px;
+  background-color: #4389FF;
+  color: #FFFFFF;
+  margin-left: 16px;
+  cursor: pointer;
+}

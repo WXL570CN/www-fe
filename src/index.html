@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+    <!-- <div>
+        welcome
+    </div>
+    <a href="user-center.html">
+        会员中心
+    </a>
+    <br>
+    <a href="user-center.html#/login">
+        登录
+    </a>
+    <br>
+    <a href="build/tmp/BundleAnalyzer.html">
+        BundleAnalyzer
+    </a> -->
+    <div id="app">
+        <keep-alive>
+            <!-- <router-view v-if="$route.meta.keepAlive"></router-view> -->
+            <router-view></router-view>
+            <!--这里是会被缓存的组件-->
+        </keep-alive>
+        <!-- <router-view v-if="!$router.meta.keepAlive"></router-view> -->
+        <!--这里是不会被缓存的组件-->
+    </div>
+</body>
+
+</html>
